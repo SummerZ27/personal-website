@@ -1,0 +1,51 @@
+body {
+    /* Set line height to 1.5 times the font size
+       and use the OS's UI font as the website font
+     */
+    font: 100%/1.5 system-ui;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+nav {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+nav a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: #0066cc;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+img {
+    max-width: 300px;
+    height: auto;
+    margin: 20px 0;
+    border-radius: 8px;
+}
+
+section {
+    margin: 30px 0;
+}
+
+section h2 {
+    margin-top: 0;
+    color: #333;
+}
+
+time {
+    font-style: italic;
+    color: #666;
+}
+
