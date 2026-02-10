@@ -184,7 +184,7 @@ img {
 }
 
 .header-section img {
-    max-width: 350px;
+    max-width: 200px;
 }
 
 img:hover {
@@ -414,7 +414,7 @@ section:nth-child(4) { animation-delay: 0.4s; }
     }
     
     .header-section img {
-        max-width: 300px;
+        max-width: 200px;
         align-self: center;
     }
     
